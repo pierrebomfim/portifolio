@@ -1,4 +1,4 @@
-# pierrebomfim.github.io
-My Personal Portfolio Page <br>
+# Portifolio
+My personal portfolio website <br>
 <br>
-Webpage created using HTML/CSS to achieve the Responsive Web Design Certificate from FreeCodeCamp (https://www.freecodecamp.org/pbomfim ).
+Click on the link to see  (https://www.freecodecamp.org/pbomfim ).
